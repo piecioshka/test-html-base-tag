@@ -2,7 +2,7 @@
 
 :ledger: Testing HTML `<base>` tag to set directory for ex. styles.
 
-## Demo 🎉
+## Preview 🎉
 
 <https://piecioshka.github.io/test-html-base-tag>
 
