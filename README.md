@@ -1,12 +1,12 @@
 # test-html-base-tag
 
-:ledger: Testing HTML `<base>` tag to set directory for ex. styles.
+📒 Testing HTML `<base>` tag to set directory for ex. styles.
 
 ## Preview 🎉
 
 <https://piecioshka.github.io/test-html-base-tag>
 
-## How it works?
+## How it works? 🚀
 
 ```html
 <!-- WARNING: path should be ending with slash -->
@@ -26,4 +26,4 @@ More in spec: <https://www.w3.org/html/wiki/Elements/base>
 
 ## License
 
-[The MIT License](http://piecioshka.mit-license.org) @ 2019
+[The MIT License](https://piecioshka.mit-license.org) @ 2019
